@@ -1,0 +1,30 @@
+.Head {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Header {
+    background-color: rgb(138, 199, 166);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .App-logo {
+    height: 100px; 
+    width: 100px;
+    width: auto;
+  }
+
+  .Para{
+    font-weight:500;
+    font-size:medium;
+  }
+
+ 
