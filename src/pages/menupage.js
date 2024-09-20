@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { ChakraProvider, Box, Heading, Image, VStack ,Text} from "@chakra-ui/react";
 import items from "../data";
 import {useParams} from "react-router-dom";
 import './menupage.css'

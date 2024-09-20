@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import { ChakraProvider, Text, Heading, Image, VStack, Box, Center } from "@chakra-ui/react";
+import React from "react";
+import { ChakraProvider, Text,Box} from "@chakra-ui/react";
 
 function Contact() {
 
