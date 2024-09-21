@@ -27,4 +27,12 @@
     font-size:medium;
   }
 
+  .feed{
+    margin-right: 10px;
+    background-color: grey;
+    border-radius: 8px;
+    font-weight:500;
+    padding: 3px;
+  }
+
  
